@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Sample portrait">
+  <rect width="800" height="1000" fill="#22344A"/>
+  <circle cx="140" cy="200" r="120" fill="#2F4866"/>
+  <path d="M80 1000 C100 800 230 715 400 715 C570 715 700 800 720 1000 Z" fill="#2A3140"/>
+  <path d="M335 712 L400 830 L465 712 Z" fill="#DCE3EC"/>
+  <rect x="352" y="590" width="96" height="140" rx="44" fill="#BD8D6C"/>
+  <ellipse cx="400" cy="465" rx="150" ry="178" fill="#D7A989"/>
+  <path d="M252 448 C244 310 320 268 400 268 C482 268 560 310 550 446 C520 360 460 330 400 330 C340 330 282 362 252 448 Z" fill="#2B211B"/>
+</svg>
